@@ -14,7 +14,7 @@
 Итоговый результат:
 ![PimpMyCar](https://github.com/AlekseyShashkov/PimpMyRideTMS/assets/17510024/8e09f7f5-43c1-44fc-afba-c0f47e366d46)
 ## 🔧Program logic:
-- Переключение ближнего света фар - ![Lights.cs](https://github.com/AlekseyShashkov/PimpMyRideTMS/blob/main/Assets/Scripts/Car/Lights.cs)
+- Переключение света фар - ![Lights.cs](https://github.com/AlekseyShashkov/PimpMyRideTMS/blob/main/Assets/Scripts/Car/Lights.cs)
 - Переключение привода и вызов методов - ![SimpleCar.cs](https://github.com/AlekseyShashkov/PimpMyRideTMS/blob/main/Assets/Scripts/Car/SimpleCar.cs)
 ## 📚Literature:
 - [How to change Material and its properties at runtime in Unity?](https://ouzaniabdraouf.medium.com/how-to-change-material-and-its-properties-at-runtime-in-unity-b316fab93f26)
